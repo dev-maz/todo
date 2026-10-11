@@ -1,10 +1,10 @@
 package todo_test
 
 import (
+	"github.com/dev-maz/todo"
 	"io/ioutil"
 	"os"
 	"testing"
-	"todo"
 )
 
 func TestAdd(t *testing.T) {

@@ -4,10 +4,10 @@ import (
 	"bufio"
 	"flag"
 	"fmt"
+	"github.com/dev-maz/todo"
 	"io"
 	"os"
 	"strings"
-	"todo"
 )
 
 var todoFileName = ".todo.json"
